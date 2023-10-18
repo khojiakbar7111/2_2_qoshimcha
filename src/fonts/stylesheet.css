@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Circe';
+    src: url('Circe-Regular.ttf');
+    src: local('Circe'), local('Circe-Regular'),
+        url('./Circe-Regular.ttf') format('embedded-opentype'),
+        url('./Circe-Regular.ttf') format('woff2'),
+        url('.Circe-Regular.ttf') format('woff'),
+        url('Circe-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
